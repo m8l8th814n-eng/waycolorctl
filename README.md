@@ -1,9 +1,14 @@
-# A little program I needed for my new Lenovo V15 G4 AMN because I do not want to go with the hyprhype and I really needed the Hyprland Visal Editor in MangoWM. 
+# A little program I needed for my new Lenovo V15 G4 AMN 
+..
+because I do not want to go with the hyprhype and I really needed the Hyprland Visal Editor in MangoWM. 
+..
 # Use it _WITHOUT_ wl-sunset !!
-# I use it like this waycolor --contrast 1.2
-# But there is more to it.
-# (If u use a lot of transparent windows u need to tweak that after)
+..
+waycolor --contrast 1.2
+..
 
+ (If u use a lot of transparent windows u need to tweak that after)
+![way](https://github.com/m8l8th814n-eng/waycolorctl/blob/main/waycolorctl.gif)
 `waycolorctl` is a small Wayland command-line tool for adjusting output gamma ramps on wlroots-based compositors.
 
 It is intended for quick display tuning when you want more control than a simple color-temperature daemon, but without writing a full compositor plugin.
