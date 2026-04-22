@@ -2,8 +2,6 @@
 ..
 because I do not want to go with the hyprhype and I really needed the Hyprland Visal Editor in MangoWM. 
 ..
-# Use it _WITHOUT_ wl-sunset !!
-..
 waycolor --contrast 1.2
 ..
 
