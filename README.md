@@ -2,6 +2,9 @@
 ..
 because I do not want to go with the hyprhype and I really needed the Hyprland Visal Editor in MangoWM. 
 ..
+make scripts or alias. use this,
+alias waycolor.movie="killall -9 waycolorctl; waycolorctl --red 1.5 --green 1.5 --blue 1.3"
+over this,
 waycolor --contrast 1.2
 ..
 
